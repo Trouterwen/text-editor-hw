@@ -15,6 +15,7 @@
 
 
 Deployed Application (Heroku): https://dashboard.heroku.com/apps/text--editor--hw/deploy/github
+Video Link: https://drive.google.com/file/d/1fnXb2G1jf2Vvm9NZEgyXG1klnCwPMzme/view
 
 Starter code for the project was provided by instructor Gary Almes.
 
